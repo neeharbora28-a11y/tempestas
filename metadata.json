@@ -1,0 +1,6 @@
+{
+  "name": "Mausam - India Weather & AQI",
+  "description": "India-focused weather dashboard with live IMD meteorological conditions, CPCB Air Quality Index, monsoon watch, hourly rainfall tracker, and regional forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
